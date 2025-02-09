@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a landing page that contains the links to my AltSchool CSS Assignment.
+This is a landing page that contains buttons to my to my table.html and media.html pages.
 
 ## Installation
 
@@ -12,12 +12,12 @@ This is a landing page that contains the links to my AltSchool CSS Assignment.
 
 ## Usage
 
-1. Go to the **media.html** page and **table.html**.
+1. Go to the **index.html** page.
 2. Right click and select **Open with Live Server**.
 
 ## Live Demo
 
-Check out the live demo [here](https://janealtschoolassignment.netlify.app/).
+Check out the live demo [here](https://janealtschoolsecondassignment.netlify.app/).
 
 ## Contirbuting
 
